@@ -1,5 +1,5 @@
 module CPNG [system] {
-  header "/usr/include/CPNG.h"
-  link "CPNG"
+  header "/usr/local/include/png.h"
+  link "png"
   export *
 }
